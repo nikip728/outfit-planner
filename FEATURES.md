@@ -15,6 +15,7 @@
 - [ ] Save outfits
 - [ ] Edit outfits
 - [ ] Delete outfits
+- [ ] Create mini-wardrobes for trips
 
 # 📅 Outfit Planning
 
