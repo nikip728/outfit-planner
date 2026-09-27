@@ -1,4 +1,4 @@
-# outfit-planner
+## outfit-planner
 # 👗 Wardrobe App
 
 A digital wardrobe and outfit planning application.
