@@ -12,13 +12,13 @@ The wardrobe should feel like a visual gallery, while the outfit builder should 
 
 The wardrobe is displayed as a visual gallery where the user can see their clothing items at once.
 
-# Layout
+### Layout
 
 * Clothing items are displayed in a gallery/grid.
 * Items should be visually prominent.
 * The wardrobe should focus on the clothing images rather than large amounts of text.
 
-# Filters
+### Filters
 
 A filter section is available at the top of the wardrobe.
 
@@ -35,7 +35,7 @@ Possible categories include:
 
 Selecting a category filters the gallery to show only matching clothing items.
 
-# Clothing Item
+### Clothing Item
 
 For the MVP, each clothing item contains:
 
@@ -49,7 +49,7 @@ For the MVP, each clothing item contains:
 
 The user can add a new clothing item to their wardrobe.
 
-# Required information
+### Required information
 
 * Clothing image
 * Name
@@ -67,7 +67,7 @@ Instead of a traditional list or grid, the user sees a blank canvas resembling a
 
 Clothing items appear as cut-out paper pieces that can be arranged freely on the canvas.
 
-# Interaction
+### Interaction
 
 The user should be able to:
 
@@ -80,7 +80,7 @@ The user should be able to:
 
 The goal is for the experience to feel similar to physically arranging paper clothing cut-outs on a sheet of paper.
 
-# Visual Direction
+### Visual Direction
 
 * Blank paper-like canvas
 * Clothing items without visible backgrounds
