@@ -1,0 +1,18 @@
+.category-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.category-filters button {
+  padding: 8px 14px;
+  border: 1px solid #ccc;
+  border-radius: 999px;
+  background: white;
+  cursor: pointer;
+}
+
+.category-filters button.selected {
+  background: black;
+  color: white;
+}
